@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A2_L03_04</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="dep_items">
+        <item>Unknow-Unknow</item>
+    	<item>Business-Moscow</item>
+    	<item>Development-Volgograg</item>
+    	<item>Testing-Saratov</item>        
+	</string-array>        
+    
+    <string-array name="genre_items">
+        <item>Unknow</item>
+        <item>Any new item</item>
+        <item>Action</item>
+    	<item>Adventure</item>
+    	<item>Animation</item>
+    	<item>Biography</item>
+    	<item>Comedy</item>
+		<item>Crime</item>
+		<item>Documentary</item>
+		<item>Drama</item>
+		<item>Family</item>
+		<item>Fantasy</item>
+		<item>Film-Noir</item>
+		<item>Game-Show</item>
+		<item>History</item>
+		<item>Horror</item>	
+		<item>Music</item>
+		<item>Musical</item>
+		<item>Mystery</item>
+		<item>News</item>
+		<item>Reality-TV</item>	
+		<item>Romance</item>
+		<item>Sci-Fi</item>
+		<item>Serial</item>
+		<item>Sport</item>
+		<item>Talk-Show</item>
+		<item>Thriller</item>
+		<item>War</item>
+		<item>Western</item> 
+    </string-array>        
+
+</resources>
